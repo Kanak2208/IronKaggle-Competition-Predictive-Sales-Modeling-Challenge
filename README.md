@@ -1,12 +1,12 @@
-# IronKaggle — Predictive Sales Modeling Challenge
+# IronKaggle - Predictive Sales Modeling Challenge
 
 This repository contains a predictive modeling solution for the IronKaggle sales forecasting competition. The primary deliverable is a Jupyter notebook, `prediction_notebook.ipynb`, which demonstrates data loading, feature engineering, model training (LightGBM and XGBoost), ensembling, and generating submissions.
 
 ## Repository structure
 
-- `prediction_notebook.ipynb` — end-to-end notebook: data exploration, feature engineering, model training, evaluation, and submission generation.
-- `predictions.csv` — example output produced by the notebook (submission format).
-- `README.md` — this file.
+- `prediction_notebook.ipynb` - end-to-end notebook: data exploration, feature engineering, model training, evaluation, and submission generation.
+- `predictions.csv` - example output produced by the notebook (submission format).
+- `README.md` - this file.
 
 ## Quickstart
 
